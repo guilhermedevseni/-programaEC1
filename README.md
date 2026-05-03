@@ -1,10 +1,12 @@
 
 # SISTEMA DE VENDAS DE CELULARES 
 
-## Nome dos Alunod 
+## Nome dos Alunos 
 
 João Guilherme De Araújo Dias MATRICULA : 20250067186
+
 João Icaro Santos Bezerra  MATRICULA: 20250052601
+
 Isabelle Silva Lisboa Da Conceição  MATRICULA: 20250052700
 
 
