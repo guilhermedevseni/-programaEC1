@@ -1,7 +1,11 @@
 
 # SISTEMA DE VENDAS DE CELULARES 
 
+## Nome dos Alunod 
 
+João Guilherme De Araújo Dias MATRICULA : 20250067186
+João Icaro Santos Bezerra  MATRICULA: 20250052601
+Isabelle Silva Lisboa Da Conceição  MATRICULA: 20250052700
 
 
 ## Lógica do sistema
@@ -43,7 +47,7 @@ Saída:
 
 ## Código do programa
 
-
+```python
 print("=== Sistema de Vendas ===")
 
 # Entrada de dados
@@ -83,7 +87,7 @@ print(f"Cliente: {nome}")
 print(f"Produto: {modelo}")
 print(f"Forma de pagamento: {metodo}")
 print(f"Valor final: R$ {valor_final:.2f}")
-
+```
 
 
 
